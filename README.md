@@ -4,7 +4,7 @@
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="public/readme/Drone_pc.gif" alt="Drone en modo PC" /> | <img src="public/readme/Drone.gif" alt="Drone en movil" /> |
 
-Ver en [Netlify](https://drone-three-js.vercel.app/)
+Ver en [Vercel](https://drone-three-js.vercel.app/)
 
 ## 🚀 Drone 3D con ThreeJs - GSAP
 
