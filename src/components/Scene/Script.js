@@ -160,7 +160,7 @@ export const initScene = (mountRef) => {
 
 //Dismount and clean up the buffer from the scene
 export const cleanUpScene = () => {
-  gui.destroy();
+  //gui.destroy();
   scene.traverse((child) => {
     if (child.isMesh) {
       child.geometry.dispose();
