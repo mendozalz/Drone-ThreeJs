@@ -2,7 +2,7 @@
 
 | PC                                                                                                                                          | Movil                                                                                                                                       |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="/readme/Drone_pc.gif" alt="Drone en modo PC" /> | <img src="public/readme/Drone.gif" alt="Drone en movil" /> |
+| <img src="public/readme/Drone_pc.gif" alt="Drone en modo PC" /> | <img src="public/readme/Drone.gif" alt="Drone en movil" /> |
 
 Ver en [Netlify](https://drone-three-js.vercel.app/)
 
