@@ -97,9 +97,28 @@
       margin-bottom: 2%;
     }
 
+    .MenuOptionsList select {
+      width: 110px;
+      margin-left: 0.5rem;
+      padding: 0.2rem 0.5rem;
+      outline: none;
+      border-radius: 10px;
+    
+      font-size: 1em;
+    }
+
+    .MenuOptionsList {
+      width: 100%;
+      display: flex;
+      flex-wrap: nowrap;
+      justify-content: space-evenly;
+      list-style: none;
+    }
+
     footer{
-      margin-top: 10%;
-      margin-bottom: -15%;
+      font-size: 14px;
+      margin-top: 2%;
+      margin-bottom: -20%;
     }
     
   }
