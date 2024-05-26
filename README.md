@@ -8,7 +8,7 @@ Ver en [Vercel](https://drone-three-js.vercel.app/)
 
 ## 🚀 Drone 3D con ThreeJs - GSAP
 
-Practicas he inicio de mi nueva forma de trabajar con desarrollo web 3D
+Practicas he inicio de mi nueva forma de trabajar con desarrollo web 3D, agradecimiento y creditos para John Script y su excelente forma de enseñar pueden ver sus cursos [aqui](https://www.youtube.com/@JohnScript)
 
 ## 💯 Features
 
